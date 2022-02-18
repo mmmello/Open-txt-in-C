@@ -1,4 +1,4 @@
-Open txt file in C language
+## Open txt file in C language
 
 This is a simple program designed to instruct any user to simply open a txt file in the C programming language.
 
