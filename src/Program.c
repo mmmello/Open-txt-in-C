@@ -21,6 +21,10 @@ int main(){
         printf(content);
     }
 
+    printf("\n\nPressione ENTER para sair...");
+
+    getch();
+
     fclose(archive);
     return 0;
 }
